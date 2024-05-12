@@ -34,7 +34,7 @@ author: Selena Chau
 #
 # Set the metadata for your collection 
 # This will be the full URL to your CSV file or relative path + filename of CSV in this repository 
-# e.g. relative path "/assets/demo-metadata.csv"
+# e.g. relative path "/assets/Copy of watkins_cbdemo - Sheet1.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vRob8ZjHF2qC3hhKhSUpTezd6Xxk3b51TTkVxrktpet5L66YBDX_ChMUg8rn4C_eI1SD1qwQ17IZ122/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
 metadata-csv: 
