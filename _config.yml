@@ -37,7 +37,7 @@ author: Selena Chau
 # e.g. relative path "/assets/cbdemo.csv"
 # e.g. published google sheet "https://docs.google.com/spreadsheets/d/e/2PACX-1vRob8ZjHF2qC3hhKhSUpTezd6Xxk3b51TTkVxrktpet5L66YBDX_ChMUg8rn4C_eI1SD1qwQ17IZ122/pub?output=csv"
 # e.g. on GitHub use the raw link "https://raw.githubusercontent.com/CollectionBuilder/collectionbuilder-sample-data/main/psychiana_cbdemo_gh.csv"
-metadata-csv: /assets/cbdemo.csv
+metadata-csv: /_data/cbdemo.csv
 
 ##########
 # Site/Organization Branding 
